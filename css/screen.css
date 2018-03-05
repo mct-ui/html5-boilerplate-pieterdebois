@@ -1,0 +1,19 @@
+html {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Helvetica Neue", Helvetica, arial, sans-serif;
+  color: #111;
+  padding: 24px 24px 0;
+}
+
+::-moz-selection {
+  background: #E85E00;
+  color: white;
+  text-shadow: none;
+}
+
+::selection {
+  background: #E85E00;
+  color: white;
+  text-shadow: none;
+}
